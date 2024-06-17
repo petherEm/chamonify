@@ -1,7 +1,7 @@
 <div>
 
   <div>
-    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logoColor=white&logo=javascript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_._JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
     <img src="https://img.shields.io/badge/-FramerMotion-black?style=for-the-badge&logoColor=white&logo=framermotion&color=412991" alt="framermotion" />
@@ -17,12 +17,12 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-The repository contains the codebase for the Chamonify project. The project is hotel booking plaform for luxury stays in Chamonix Mont-Blanc. The platform is built using the latest tech stack, including Next.js, TypeScript, Tailwind CSS, FramerMotion, and Stripe (under development). 
+The repository contains the codebase for the Chamonify project. The project is hotel booking plaform for luxury stays in Chamonix Mont-Blanc. The platform is built using the latest tech stack, including Next.js, JavaScript, Tailwind CSS, FramerMotion, and Stripe (under development). 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
-- TypeScript
+- JavaScript
 - Tailwind CSS
 - Stripe
 - FramerMotion
